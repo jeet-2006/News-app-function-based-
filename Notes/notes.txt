@@ -1,0 +1,8 @@
+Render() -> compile JSX into html and show that html into browser.s
+javascript pure function --> for same input it always give same output.
+
+ComponennetDidMount() -> we use this method for fetching api or set  states. it runs after render().
+
+hook-->
+useEffect = componentDidMount()
+useState = this.state
